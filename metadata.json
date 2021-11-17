@@ -1,0 +1,6 @@
+{
+  "name": "My Awesome App",
+  "identifier": "com.metrological.app.myawesomeapp",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

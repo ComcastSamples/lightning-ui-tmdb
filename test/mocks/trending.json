@@ -1,0 +1,428 @@
+{
+  "page": 1,
+  "results": [
+      {
+          "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+          "video": false,
+          "id": 438631,
+          "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+          "release_date": "2021-09-15",
+          "vote_count": 3535,
+          "adult": false,
+          "backdrop_path": "/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg",
+          "vote_average": 8.0,
+          "genre_ids": [
+              28,
+              12,
+              878
+          ],
+          "title": "Dune",
+          "original_language": "en",
+          "original_title": "Dune",
+          "popularity": 4080.34,
+          "media_type": "movie"
+      },
+      {
+          "backdrop_path": "/qw3J9cNeLioOLoR68WX7z79aCdK.jpg",
+          "genre_ids": [
+              10759,
+              9648,
+              18
+          ],
+          "original_language": "ko",
+          "vote_count": 8677,
+          "name": "Squid Game",
+          "first_air_date": "2021-09-17",
+          "vote_average": 7.8,
+          "original_name": "오징어 게임",
+          "origin_country": [
+              "KR"
+          ],
+          "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+          "poster_path": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+          "id": 93405,
+          "popularity": 2873.826,
+          "media_type": "tv"
+      },
+      {
+          "vote_average": 8.0,
+          "overview": "On a post-apocalyptic Earth, a robot, built to protect the life of his dying creator's beloved dog, learns about life, love, friendship, and what it means to be human.",
+          "release_date": "2021-11-04",
+          "title": "Finch",
+          "adult": false,
+          "backdrop_path": "/oE6bhqqVFyIECtBzqIuvh6JdaB5.jpg",
+          "genre_ids": [
+              878,
+              18,
+              12
+          ],
+          "vote_count": 322,
+          "original_language": "en",
+          "original_title": "Finch",
+          "poster_path": "/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg",
+          "id": 522402,
+          "video": false,
+          "popularity": 280.553,
+          "media_type": "movie"
+      },
+      {
+          "vote_average": 6.8,
+          "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+          "release_date": "2021-09-30",
+          "title": "Venom: Let There Be Carnage",
+          "adult": false,
+          "backdrop_path": "/lNyLSOKMMeUPr1RsL4KcRuIXwHt.jpg",
+          "genre_ids": [
+              878,
+              28,
+              12
+          ],
+          "vote_count": 1659,
+          "original_language": "en",
+          "original_title": "Venom: Let There Be Carnage",
+          "poster_path": "/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+          "id": 580489,
+          "video": false,
+          "popularity": 6526.86,
+          "media_type": "movie"
+      },
+      {
+          "vote_average": 7.1,
+          "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+          "release_date": "2021-11-03",
+          "adult": false,
+          "backdrop_path": "/3G6wET9eLvYn3aoIj8NfQFhpYEB.jpg",
+          "vote_count": 480,
+          "genre_ids": [
+              28,
+              12,
+              878
+          ],
+          "id": 524434,
+          "original_language": "en",
+          "original_title": "Eternals",
+          "poster_path": "/6AdXwFTRTAzggD2QUTt5B7JFGKL.jpg",
+          "title": "Eternals",
+          "video": false,
+          "popularity": 3786.236,
+          "media_type": "movie"
+      },
+      {
+          "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
+          "release_date": "2021-10-29",
+          "id": 796499,
+          "adult": false,
+          "backdrop_path": "/lxLiKYM4laorYKMxyaWrSVbLIjr.jpg",
+          "genre_ids": [
+              28,
+              53,
+              35,
+              80
+          ],
+          "original_language": "en",
+          "original_title": "Army of Thieves",
+          "poster_path": "/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
+          "vote_count": 499,
+          "video": false,
+          "vote_average": 6.9,
+          "title": "Army of Thieves",
+          "popularity": 1890.778,
+          "media_type": "movie"
+      },
+      {
+          "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck, a ruthless crime boss who just got sprung from prison.",
+          "release_date": "2021-10-22",
+          "id": 618162,
+          "adult": false,
+          "backdrop_path": "/d0mpUFKzoPwF1KsdjHpkkaYSvKm.jpg",
+          "title": "The Harder They Fall",
+          "genre_ids": [
+              37
+          ],
+          "original_language": "en",
+          "original_title": "The Harder They Fall",
+          "poster_path": "/19VaTIO5e9MfoXxIMALaEaiGAIN.jpg",
+          "vote_count": 147,
+          "video": false,
+          "vote_average": 6.5,
+          "popularity": 134.819,
+          "media_type": "movie"
+      },
+      {
+          "overview": "Michael Myers escapes from Laurie Strode's trap to continue his ritual bloodbath. Injured and taken to the hospital, Laurie fights through the pain as she inspires residents of Haddonfield, Ill., to rise up against Myers. Taking matters into their own hands, the Strode women and other survivors form a vigilante mob to hunt down Michael and end his reign of terror once and for all.",
+          "release_date": "2021-10-14",
+          "id": 610253,
+          "adult": false,
+          "backdrop_path": "/tDYwYktjFmpj92S2Qn4T3BcRgL.jpg",
+          "genre_ids": [
+              27,
+              53
+          ],
+          "original_language": "en",
+          "original_title": "Halloween Kills",
+          "poster_path": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+          "vote_count": 1109,
+          "video": false,
+          "vote_average": 7.0,
+          "title": "Halloween Kills",
+          "popularity": 1653.046,
+          "media_type": "movie"
+      },
+      {
+          "original_title": "After We Fell",
+          "poster_path": "/3WfvjNWr5k1Zzww81b3GWc8KQhb.jpg",
+          "id": 744275,
+          "vote_average": 7.4,
+          "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+          "release_date": "2021-09-01",
+          "vote_count": 734,
+          "adult": false,
+          "backdrop_path": "/4vCh8R4yd6ybOmbxRAPOzaXmLTV.jpg",
+          "video": false,
+          "genre_ids": [
+              10749,
+              18
+          ],
+          "title": "After We Fell",
+          "original_language": "en",
+          "popularity": 746.333,
+          "media_type": "movie"
+      },
+      {
+          "release_date": "2021-08-11",
+          "adult": false,
+          "backdrop_path": "/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg",
+          "genre_ids": [
+              35,
+              28,
+              12,
+              878
+          ],
+          "vote_count": 3445,
+          "original_language": "en",
+          "original_title": "Free Guy",
+          "poster_path": "/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+          "video": false,
+          "id": 550988,
+          "vote_average": 7.8,
+          "title": "Free Guy",
+          "overview": "A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.",
+          "popularity": 2455.617,
+          "media_type": "movie"
+      },
+      {
+          "backdrop_path": "/e6v08948EZVvLrx0sWpmglguY9e.jpg",
+          "first_air_date": "2021-11-07",
+          "genre_ids": [
+              18,
+              80
+          ],
+          "id": 131927,
+          "name": "Dexter: New Blood",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "Dexter: New Blood",
+          "overview": "10 years after Dexter went missing in the eye of Hurricane Laura, we find him living under an assumed name in the small town of Iron Lake, New York.  Dexter may be embracing his new life, but in the wake of unexpected events in this close-knit community, his Dark Passenger beckons.",
+          "poster_path": "/onnYrRDxvfEAjeXHxq1BoyUF419.jpg",
+          "vote_average": 9.7,
+          "vote_count": 12,
+          "popularity": 114.433,
+          "media_type": "tv"
+      },
+      {
+          "backdrop_path": "/e92qfYRVYUL602ztyEoujUtXlS1.jpg",
+          "first_air_date": "2018-09-09",
+          "genre_ids": [
+              9648,
+              80,
+              18
+          ],
+          "id": 78191,
+          "name": "You",
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "original_name": "You",
+          "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+          "poster_path": "/yxIdKGEjagaLs5kMjw92kAHmopH.jpg",
+          "vote_average": 8.2,
+          "vote_count": 1654,
+          "popularity": 721.345,
+          "media_type": "tv"
+      },
+      {
+          "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+          "first_air_date": "2021-11-06",
+          "id": 94605,
+          "vote_average": 9.4,
+          "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+          "name": "Arcane",
+          "original_name": "Arcane",
+          "origin_country": [
+              "US"
+          ],
+          "vote_count": 82,
+          "genre_ids": [
+              16,
+              10765,
+              10759
+          ],
+          "backdrop_path": "/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg",
+          "original_language": "en",
+          "popularity": 173.312,
+          "media_type": "tv"
+      },
+      {
+          "vote_average": 6.7,
+          "overview": "A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.",
+          "release_date": "2021-07-21",
+          "adult": false,
+          "backdrop_path": "/iTgM25ftE7YtFgZwUZupVp8A61S.jpg",
+          "vote_count": 1577,
+          "genre_ids": [
+              53,
+              9648,
+              27
+          ],
+          "id": 631843,
+          "original_language": "en",
+          "original_title": "Old",
+          "poster_path": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+          "title": "Old",
+          "video": false,
+          "popularity": 621.642,
+          "media_type": "movie"
+      },
+      {
+          "title": "The Suicide Squad",
+          "adult": false,
+          "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+          "genre_ids": [
+              28,
+              12,
+              14,
+              35
+          ],
+          "original_language": "en",
+          "original_title": "The Suicide Squad",
+          "poster_path": "/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg",
+          "vote_count": 4676,
+          "video": false,
+          "id": 436969,
+          "vote_average": 7.8,
+          "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+          "release_date": "2021-07-28",
+          "popularity": 1010.69,
+          "media_type": "movie"
+      },
+      {
+          "vote_average": 7.4,
+          "overview": "Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.",
+          "release_date": "2021-05-19",
+          "title": "F9",
+          "adult": false,
+          "backdrop_path": "/gGTCDNEvwG848u34Op1nZNALLUr.jpg",
+          "genre_ids": [
+              28,
+              80,
+              53
+          ],
+          "vote_count": 4286,
+          "original_language": "en",
+          "original_title": "F9",
+          "poster_path": "/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",
+          "id": 385128,
+          "video": false,
+          "popularity": 947.093,
+          "media_type": "movie"
+      },
+      {
+          "adult": false,
+          "backdrop_path": "/pa0Mq5rGm2QnzdpFmugTu4Mghf.jpg",
+          "genre_ids": [
+              35,
+              10749
+          ],
+          "id": 734265,
+          "original_language": "en",
+          "original_title": "Love Hard",
+          "overview": "An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she’s been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays.",
+          "poster_path": "/oTkAFDZRLnqrXOrOwuy3Tvul0v5.jpg",
+          "release_date": "2021-11-05",
+          "title": "Love Hard",
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 115,
+          "popularity": 209.332,
+          "media_type": "movie"
+      },
+      {
+          "genre_ids": [
+              80,
+              18
+          ],
+          "first_air_date": "2017-05-02",
+          "original_language": "es",
+          "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+          "vote_average": 8.3,
+          "id": 71446,
+          "vote_count": 14868,
+          "name": "Money Heist",
+          "original_name": "La Casa de Papel",
+          "origin_country": [
+              "ES"
+          ],
+          "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+          "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+          "popularity": 598.849,
+          "media_type": "tv"
+      },
+      {
+          "backdrop_path": "/9IsGcpX1p0iU3eRpiTFrWkg5qqj.jpg",
+          "genre_ids": [
+              10765,
+              18
+          ],
+          "original_language": "en",
+          "vote_count": 158,
+          "name": "Invasion",
+          "first_air_date": "2021-10-21",
+          "vote_average": 7.5,
+          "original_name": "Invasion",
+          "origin_country": [
+              "US"
+          ],
+          "overview": "Earth is visited by an alien species that threatens humanity’s existence. Events unfold in real time through the eyes of five ordinary people across the globe as they struggle to make sense of the chaos unraveling around them.",
+          "poster_path": "/7rpiHZx10Nm50AtzTUEO9eyaKdq.jpg",
+          "id": 127235,
+          "popularity": 1185.616,
+          "media_type": "tv"
+      },
+      {
+          "poster_path": "/A1fXGFxDifQzj08OlaGTVcnXHyd.jpg",
+          "id": 93740,
+          "overview": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
+          "name": "Foundation",
+          "vote_count": 287,
+          "original_name": "Foundation",
+          "backdrop_path": "/uAWB8qOs7L6zGTwxAbeT97AsJk6.jpg",
+          "vote_average": 8.2,
+          "genre_ids": [
+              10765,
+              18
+          ],
+          "origin_country": [
+              "US"
+          ],
+          "original_language": "en",
+          "first_air_date": "2021-09-23",
+          "popularity": 752.9,
+          "media_type": "tv"
+      }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}

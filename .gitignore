@@ -1,0 +1,7 @@
+node_modules
+coverage
+dist
+releases
+.tmp
+build
+src/api/key.js

@@ -1,0 +1,49 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": true,
+      "w": 1280,
+      "h": 720,
+      "precision": 0.6666667
+    },
+    "keys": {
+      "8": "Last",
+      "13": "Enter",
+      "27": "Exit",
+      "33": "PageUp",
+      "34": "PageDown",
+      "37": "Left",
+      "38": "Up",
+      "39": "Right",
+      "40": "Down",
+      "68": "Debug",
+      "71": "Guide",
+      "72": "Hint",
+      "73": "Info",
+      "76": "Last",
+      "77": "Menu",
+      "78": "Next",
+      "80": "Prev",
+      "84": "TextBanner",
+      "86": "VoiceGuidance",
+      "179": "PlayPause",
+      "83": "Star",
+      "227": "Rewind",
+      "228": "FastForward",
+      "219": "Rewind",
+      "221": "FastForward",
+      "403": "ColorA",
+      "404": "ColorB",
+      "405": "ColorC",
+      "406": "ColorD"
+    },
+    "debug": true
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "showVersion": false,
+    "inspector": true
+  }
+}
