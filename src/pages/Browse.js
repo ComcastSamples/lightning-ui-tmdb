@@ -1,7 +1,6 @@
 import Page from './Page';
 import { Column } from '@lightningjs/ui-components';
 import { Language } from '@lightningjs/sdk';
-import lng from '@lightningjs/core';
 
 export default class Browse extends Page {
   static _template() {

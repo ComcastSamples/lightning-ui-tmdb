@@ -1,9 +1,7 @@
 import TestRenderer from '@lightningjs/ui-components/test/lightning-test-renderer';
 import Entity from 'src/pages/Entity';
-
-const MovieEntityRoute = getRoute('movie/:movieId');
-const TvEntityRoute = getRoute('tv/:tvId');
-
+import movieProvider from 'src/api/providers/movie';
+import tvProvider from 'src/api/providers/tv';
 
 describe('Entity Page', () => {
   let EntityPage;
@@ -21,7 +19,7 @@ describe('Entity Page', () => {
 
   describe('TV Entity Page', () => {
     beforeEach(() => {
-      return TvEntityRoute.before(page, { tvId: 1234 });
+      return tvProvider(page, { tvId: 1234 });
     });
 
     it('should render', () => {
@@ -61,7 +59,7 @@ describe('Entity Page', () => {
 
   describe('Movie Entity Page', () => {
     beforeEach(() => {
-      return MovieEntityRoute.before(page, { movieId: 1234 });
+      return movieProvider(page, { movieId: 1234 });
     });
 
     it('should render', () => {
@@ -90,6 +88,10 @@ describe('Entity Page', () => {
       expect(page._SectionsContainer.tag('Recommendations').items.length).toBe(10);
     });
 
+    it('should have recommendations row', () => {
+      expect(page._SectionsContainer.tag('Recommendations').title.text).toBe('Recommendations');
+    });
+
     it('should load recommendations with actions', () => {
       jest.spyOn(page, 'navigate').mockImplementation(() => {})
       testRenderer.keyPress('Down');
@@ -101,10 +103,10 @@ describe('Entity Page', () => {
 
   describe('Changing Entity Pages', () => {
     it('should render at the top', async () => {
-      await TvEntityRoute.before(page, { tvId: 1234 });
+      await tvProvider(page, { tvId: 1234 });
       testRenderer.keyPress('Down');
       testRenderer.keyPress('Down');
-      await MovieEntityRoute.before(page, { movieId: 1234 });
+      await movieProvider(page, { movieId: 1234 });
       // Called by router
       page._onChanged();
       let tree = testRenderer.toJSON(3);

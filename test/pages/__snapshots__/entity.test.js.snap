@@ -192,13 +192,13 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-1651": Object {
+                            "Element-1742": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-1652": Object {
+                                "Element-1743": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
@@ -336,25 +336,25 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-1653": Object {
+                            "Element-1744": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-1654": Object {
+                                "Element-1745": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
                                   "boundsMargin": null,
                                   "children": Object {
-                                    "Element-1655": Object {
+                                    "Element-1746": Object {
                                       "active": true,
                                       "alpha": 1,
                                       "attached": true,
                                       "boundsMargin": null,
                                       "children": Object {
-                                        "Element-1656": Object {
+                                        "Element-1747": Object {
                                           "active": true,
                                           "alpha": 1,
                                           "attached": true,
@@ -548,25 +548,25 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-1657": Object {
+                            "Element-1748": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-1658": Object {
+                                "Element-1749": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
                                   "boundsMargin": null,
                                   "children": Object {
-                                    "Element-1659": Object {
+                                    "Element-1750": Object {
                                       "active": true,
                                       "alpha": 1,
                                       "attached": true,
                                       "boundsMargin": null,
                                       "children": Object {
-                                        "Element-1660": Object {
+                                        "Element-1751": Object {
                                           "active": true,
                                           "alpha": 1,
                                           "attached": true,
@@ -1051,7 +1051,7 @@ Object {
                   "attached": true,
                   "boundsMargin": null,
                   "children": Object {
-                    "Element-1742": Object {
+                    "Element-1833": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -1202,7 +1202,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1746": Object {
+                    "Element-1837": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -1353,7 +1353,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1750": Object {
+                    "Element-1841": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -1504,7 +1504,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1754": Object {
+                    "Element-1845": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -1655,7 +1655,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1758": Object {
+                    "Element-1849": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -1806,7 +1806,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1762": Object {
+                    "Element-1853": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -1957,7 +1957,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1766": Object {
+                    "Element-1857": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -2108,7 +2108,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1770": Object {
+                    "Element-1861": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -2259,7 +2259,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1774": Object {
+                    "Element-1865": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -2410,7 +2410,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1778": Object {
+                    "Element-1869": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -2671,115 +2671,6 @@ Object {
               "attached": true,
               "boundsMargin": null,
               "children": Object {
-                "RightMetadata": Object {
-                  "active": true,
-                  "alpha": 1,
-                  "attached": true,
-                  "boundsMargin": null,
-                  "children": Object {
-                    "LogoContainer": Object {
-                      "active": true,
-                      "alpha": 1,
-                      "attached": true,
-                      "boundsMargin": null,
-                      "children": Object {
-                        "Logo": Object {
-                          "active": true,
-                          "alpha": 1,
-                          "attached": true,
-                          "boundsMargin": null,
-                          "clipping": false,
-                          "color": 4294967295,
-                          "enabled": true,
-                          "flex": false,
-                          "flexItem": true,
-                          "h": 0,
-                          "isComponent": undefined,
-                          "mount": 0,
-                          "mountX": 0,
-                          "mountY": 0,
-                          "pivot": 0.5,
-                          "pivotX": 0.5,
-                          "pivotY": 0.5,
-                          "ref": "Logo",
-                          "renderOfScreen": undefined,
-                          "renderToTexture": false,
-                          "scale": 1,
-                          "scaleX": 1,
-                          "scaleY": 1,
-                          "state": undefined,
-                          "tag": [Function],
-                          "tags": Array [
-                            "Logo",
-                          ],
-                          "visible": true,
-                          "w": 0,
-                          "x": 0,
-                          "y": 0,
-                          "zIndex": 0,
-                        },
-                      },
-                      "clipping": false,
-                      "color": 4294967295,
-                      "enabled": true,
-                      "flex": true,
-                      "flexItem": true,
-                      "h": 88,
-                      "isComponent": undefined,
-                      "mount": 0,
-                      "mountX": 0,
-                      "mountY": 0,
-                      "pivot": 0.5,
-                      "pivotX": 0.5,
-                      "pivotY": 0.5,
-                      "ref": "LogoContainer",
-                      "renderOfScreen": undefined,
-                      "renderToTexture": false,
-                      "scale": 1,
-                      "scaleX": 1,
-                      "scaleY": 1,
-                      "state": undefined,
-                      "tag": [Function],
-                      "tags": Array [
-                        "LogoContainer",
-                      ],
-                      "visible": true,
-                      "w": 99,
-                      "x": 0,
-                      "y": 0,
-                      "zIndex": 0,
-                    },
-                  },
-                  "clipping": false,
-                  "color": 4294967295,
-                  "enabled": true,
-                  "flex": true,
-                  "flexItem": true,
-                  "h": 0,
-                  "isComponent": undefined,
-                  "mount": 0,
-                  "mountX": 0,
-                  "mountY": 0,
-                  "pivot": 0.5,
-                  "pivotX": 0.5,
-                  "pivotY": 0.5,
-                  "ref": "RightMetadata",
-                  "renderOfScreen": undefined,
-                  "renderToTexture": false,
-                  "scale": 1,
-                  "scaleX": 1,
-                  "scaleY": 1,
-                  "state": undefined,
-                  "tag": [Function],
-                  "tags": Array [
-                    "RightMetadata",
-                  ],
-                  "visible": true,
-                  "w": 748,
-                  "x": 1012,
-                  "y": 0,
-                  "zIndex": 0,
-                },
                 "ShortSynopsis": Object {
                   "active": true,
                   "alpha": 1,
@@ -3257,7 +3148,7 @@ Object {
                   "attached": true,
                   "boundsMargin": null,
                   "children": Object {
-                    "Element-1702": Object {
+                    "Element-1793": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -3408,7 +3299,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1706": Object {
+                    "Element-1797": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -3559,7 +3450,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1710": Object {
+                    "Element-1801": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -3710,7 +3601,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1714": Object {
+                    "Element-1805": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -3861,7 +3752,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1718": Object {
+                    "Element-1809": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -4012,7 +3903,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1722": Object {
+                    "Element-1813": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -4163,7 +4054,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1726": Object {
+                    "Element-1817": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -4314,7 +4205,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1730": Object {
+                    "Element-1821": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -4465,7 +4356,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1734": Object {
+                    "Element-1825": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -4616,7 +4507,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-1738": Object {
+                    "Element-1829": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -5132,13 +5023,13 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-853": Object {
+                            "Element-832": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-854": Object {
+                                "Element-833": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
@@ -5276,25 +5167,25 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-855": Object {
+                            "Element-834": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-856": Object {
+                                "Element-835": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
                                   "boundsMargin": null,
                                   "children": Object {
-                                    "Element-857": Object {
+                                    "Element-836": Object {
                                       "active": true,
                                       "alpha": 1,
                                       "attached": true,
                                       "boundsMargin": null,
                                       "children": Object {
-                                        "Element-858": Object {
+                                        "Element-837": Object {
                                           "active": true,
                                           "alpha": 1,
                                           "attached": true,
@@ -5488,25 +5379,25 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-859": Object {
+                            "Element-838": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-860": Object {
+                                "Element-839": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
                                   "boundsMargin": null,
                                   "children": Object {
-                                    "Element-861": Object {
+                                    "Element-840": Object {
                                       "active": true,
                                       "alpha": 1,
                                       "attached": true,
                                       "boundsMargin": null,
                                       "children": Object {
-                                        "Element-862": Object {
+                                        "Element-841": Object {
                                           "active": true,
                                           "alpha": 1,
                                           "attached": true,
@@ -5991,7 +5882,7 @@ Object {
                   "attached": true,
                   "boundsMargin": null,
                   "children": Object {
-                    "Element-863": Object {
+                    "Element-842": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -6142,7 +6033,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-867": Object {
+                    "Element-846": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -6293,7 +6184,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-871": Object {
+                    "Element-850": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -6444,7 +6335,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-875": Object {
+                    "Element-854": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -6595,7 +6486,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-879": Object {
+                    "Element-858": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -6746,7 +6637,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-883": Object {
+                    "Element-862": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -6897,7 +6788,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-887": Object {
+                    "Element-866": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -7048,7 +6939,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-891": Object {
+                    "Element-870": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -7199,7 +7090,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-895": Object {
+                    "Element-874": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -7350,7 +7241,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-899": Object {
+                    "Element-878": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -7611,115 +7502,6 @@ Object {
               "attached": true,
               "boundsMargin": null,
               "children": Object {
-                "RightMetadata": Object {
-                  "active": true,
-                  "alpha": 1,
-                  "attached": true,
-                  "boundsMargin": null,
-                  "children": Object {
-                    "LogoContainer": Object {
-                      "active": true,
-                      "alpha": 1,
-                      "attached": true,
-                      "boundsMargin": null,
-                      "children": Object {
-                        "Logo": Object {
-                          "active": true,
-                          "alpha": 1,
-                          "attached": true,
-                          "boundsMargin": null,
-                          "clipping": false,
-                          "color": 4294967295,
-                          "enabled": true,
-                          "flex": false,
-                          "flexItem": true,
-                          "h": 0,
-                          "isComponent": undefined,
-                          "mount": 0,
-                          "mountX": 0,
-                          "mountY": 0,
-                          "pivot": 0.5,
-                          "pivotX": 0.5,
-                          "pivotY": 0.5,
-                          "ref": "Logo",
-                          "renderOfScreen": undefined,
-                          "renderToTexture": false,
-                          "scale": 1,
-                          "scaleX": 1,
-                          "scaleY": 1,
-                          "state": undefined,
-                          "tag": [Function],
-                          "tags": Array [
-                            "Logo",
-                          ],
-                          "visible": true,
-                          "w": 0,
-                          "x": 0,
-                          "y": 0,
-                          "zIndex": 0,
-                        },
-                      },
-                      "clipping": false,
-                      "color": 4294967295,
-                      "enabled": true,
-                      "flex": true,
-                      "flexItem": true,
-                      "h": 88,
-                      "isComponent": undefined,
-                      "mount": 0,
-                      "mountX": 0,
-                      "mountY": 0,
-                      "pivot": 0.5,
-                      "pivotX": 0.5,
-                      "pivotY": 0.5,
-                      "ref": "LogoContainer",
-                      "renderOfScreen": undefined,
-                      "renderToTexture": false,
-                      "scale": 1,
-                      "scaleX": 1,
-                      "scaleY": 1,
-                      "state": undefined,
-                      "tag": [Function],
-                      "tags": Array [
-                        "LogoContainer",
-                      ],
-                      "visible": true,
-                      "w": 99,
-                      "x": 0,
-                      "y": 0,
-                      "zIndex": 0,
-                    },
-                  },
-                  "clipping": false,
-                  "color": 4294967295,
-                  "enabled": true,
-                  "flex": true,
-                  "flexItem": true,
-                  "h": 0,
-                  "isComponent": undefined,
-                  "mount": 0,
-                  "mountX": 0,
-                  "mountY": 0,
-                  "pivot": 0.5,
-                  "pivotX": 0.5,
-                  "pivotY": 0.5,
-                  "ref": "RightMetadata",
-                  "renderOfScreen": undefined,
-                  "renderToTexture": false,
-                  "scale": 1,
-                  "scaleX": 1,
-                  "scaleY": 1,
-                  "state": undefined,
-                  "tag": [Function],
-                  "tags": Array [
-                    "RightMetadata",
-                  ],
-                  "visible": true,
-                  "w": 748,
-                  "x": 1012,
-                  "y": 0,
-                  "zIndex": 0,
-                },
                 "ShortSynopsis": Object {
                   "active": true,
                   "alpha": 1,
@@ -8197,7 +7979,7 @@ Object {
                   "attached": true,
                   "boundsMargin": null,
                   "children": Object {
-                    "Element-813": Object {
+                    "Element-792": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -8348,7 +8130,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-817": Object {
+                    "Element-796": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -8499,7 +8281,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-821": Object {
+                    "Element-800": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -8650,7 +8432,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-825": Object {
+                    "Element-804": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -8801,7 +8583,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-829": Object {
+                    "Element-808": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -8952,7 +8734,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-833": Object {
+                    "Element-812": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -9103,7 +8885,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-837": Object {
+                    "Element-816": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -9254,7 +9036,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-841": Object {
+                    "Element-820": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -9405,7 +9187,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-845": Object {
+                    "Element-824": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -9556,7 +9338,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-849": Object {
+                    "Element-828": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -10072,13 +9854,13 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-79": Object {
+                            "Element-76": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-80": Object {
+                                "Element-77": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
@@ -10216,25 +9998,25 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-81": Object {
+                            "Element-78": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-82": Object {
+                                "Element-79": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
                                   "boundsMargin": null,
                                   "children": Object {
-                                    "Element-83": Object {
+                                    "Element-80": Object {
                                       "active": true,
                                       "alpha": 1,
                                       "attached": true,
                                       "boundsMargin": null,
                                       "children": Object {
-                                        "Element-84": Object {
+                                        "Element-81": Object {
                                           "active": true,
                                           "alpha": 1,
                                           "attached": true,
@@ -10428,25 +10210,25 @@ Object {
                           "attached": true,
                           "boundsMargin": null,
                           "children": Object {
-                            "Element-85": Object {
+                            "Element-82": Object {
                               "active": true,
                               "alpha": 1,
                               "attached": true,
                               "boundsMargin": null,
                               "children": Object {
-                                "Element-86": Object {
+                                "Element-83": Object {
                                   "active": true,
                                   "alpha": 1,
                                   "attached": true,
                                   "boundsMargin": null,
                                   "children": Object {
-                                    "Element-87": Object {
+                                    "Element-84": Object {
                                       "active": true,
                                       "alpha": 1,
                                       "attached": true,
                                       "boundsMargin": null,
                                       "children": Object {
-                                        "Element-88": Object {
+                                        "Element-85": Object {
                                           "active": true,
                                           "alpha": 1,
                                           "attached": true,
@@ -10931,158 +10713,7 @@ Object {
                   "attached": true,
                   "boundsMargin": null,
                   "children": Object {
-                    "Element-101": Object {
-                      "active": true,
-                      "alpha": 1,
-                      "attached": true,
-                      "boundsMargin": null,
-                      "children": Object {
-                        "FocusRing": Object {
-                          "active": false,
-                          "alpha": 0,
-                          "attached": true,
-                          "boundsMargin": null,
-                          "clipping": false,
-                          "color": 4294967295,
-                          "enabled": false,
-                          "flex": false,
-                          "flexItem": false,
-                          "h": 298,
-                          "isComponent": undefined,
-                          "mount": 0.5,
-                          "mountX": 0.5,
-                          "mountY": 0.5,
-                          "pivot": 0.5,
-                          "pivotX": 0.5,
-                          "pivotY": 0.5,
-                          "ref": "FocusRing",
-                          "renderOfScreen": undefined,
-                          "renderToTexture": false,
-                          "scale": 1,
-                          "scaleX": 1,
-                          "scaleY": 1,
-                          "state": undefined,
-                          "tag": [Function],
-                          "tags": Array [
-                            "FocusRing",
-                          ],
-                          "texture": Object {
-                            "type": "StaticCanvasTexture",
-                          },
-                          "visible": true,
-                          "w": 205,
-                          "x": 92.5,
-                          "y": 139,
-                          "zIndex": 2,
-                        },
-                        "Item": Object {
-                          "active": true,
-                          "alpha": 1,
-                          "attached": true,
-                          "boundsMargin": null,
-                          "children": Object {
-                            "Image": Object {
-                              "active": true,
-                              "alpha": 1,
-                              "attached": true,
-                              "boundsMargin": null,
-                              "clipping": false,
-                              "color": 4294967295,
-                              "enabled": true,
-                              "flex": false,
-                              "flexItem": false,
-                              "h": 278,
-                              "isComponent": undefined,
-                              "mount": 0,
-                              "mountX": 0,
-                              "mountY": 0,
-                              "pivot": 0.5,
-                              "pivotX": 0.5,
-                              "pivotY": 0.5,
-                              "ref": "Image",
-                              "renderOfScreen": undefined,
-                              "renderToTexture": true,
-                              "scale": 1,
-                              "scaleX": 1,
-                              "scaleY": 1,
-                              "state": undefined,
-                              "tag": [Function],
-                              "tags": Array [
-                                "Image",
-                              ],
-                              "texture": Object {
-                                "src": "http://image.tmdb.org/t/p/w185/8QxfBE2tWYuFeGknZxEGhEQXspe.jpg",
-                                "type": "ImageTexture",
-                              },
-                              "visible": true,
-                              "w": 185,
-                              "x": 0,
-                              "y": 0,
-                              "zIndex": 2,
-                            },
-                          },
-                          "clipping": false,
-                          "color": 4294967295,
-                          "enabled": true,
-                          "flex": false,
-                          "flexItem": false,
-                          "h": 0,
-                          "isComponent": undefined,
-                          "mount": 0,
-                          "mountX": 0,
-                          "mountY": 0,
-                          "pivot": 0.5,
-                          "pivotX": 0.5,
-                          "pivotY": 0.5,
-                          "ref": "Item",
-                          "renderOfScreen": undefined,
-                          "renderToTexture": false,
-                          "scale": 1,
-                          "scaleX": 1,
-                          "scaleY": 1,
-                          "state": undefined,
-                          "tag": [Function],
-                          "tags": Array [
-                            "Item",
-                          ],
-                          "visible": true,
-                          "w": 0,
-                          "x": 0,
-                          "y": 0,
-                          "zIndex": 0,
-                        },
-                      },
-                      "clipping": false,
-                      "color": 4294967295,
-                      "enabled": true,
-                      "flex": false,
-                      "flexItem": false,
-                      "h": 278,
-                      "hasFinalFocus": false,
-                      "hasFocus": false,
-                      "isComponent": true,
-                      "mount": 0,
-                      "mountX": 0,
-                      "mountY": 0,
-                      "pivot": 0.5,
-                      "pivotX": 0.5,
-                      "pivotY": 0.5,
-                      "ref": null,
-                      "renderOfScreen": undefined,
-                      "renderToTexture": false,
-                      "scale": 1,
-                      "scaleX": 1,
-                      "scaleY": 1,
-                      "state": "",
-                      "tag": [Function],
-                      "type": "Tile",
-                      "visible": true,
-                      "w": 185,
-                      "x": 651,
-                      "y": 0,
-                      "zIndex": 0,
-                    },
-                    "Element-105": Object {
+                    "Element-102": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -11233,7 +10864,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-109": Object {
+                    "Element-106": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -11384,7 +11015,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-113": Object {
+                    "Element-110": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -11535,7 +11166,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-117": Object {
+                    "Element-114": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -11686,7 +11317,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-121": Object {
+                    "Element-118": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -11837,7 +11468,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-89": Object {
+                    "Element-86": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -11988,7 +11619,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-93": Object {
+                    "Element-90": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -12139,7 +11770,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-97": Object {
+                    "Element-94": Object {
                       "active": true,
                       "alpha": 1,
                       "attached": true,
@@ -12290,6 +11921,157 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
+                    "Element-98": Object {
+                      "active": true,
+                      "alpha": 1,
+                      "attached": true,
+                      "boundsMargin": null,
+                      "children": Object {
+                        "FocusRing": Object {
+                          "active": false,
+                          "alpha": 0,
+                          "attached": true,
+                          "boundsMargin": null,
+                          "clipping": false,
+                          "color": 4294967295,
+                          "enabled": false,
+                          "flex": false,
+                          "flexItem": false,
+                          "h": 298,
+                          "isComponent": undefined,
+                          "mount": 0.5,
+                          "mountX": 0.5,
+                          "mountY": 0.5,
+                          "pivot": 0.5,
+                          "pivotX": 0.5,
+                          "pivotY": 0.5,
+                          "ref": "FocusRing",
+                          "renderOfScreen": undefined,
+                          "renderToTexture": false,
+                          "scale": 1,
+                          "scaleX": 1,
+                          "scaleY": 1,
+                          "state": undefined,
+                          "tag": [Function],
+                          "tags": Array [
+                            "FocusRing",
+                          ],
+                          "texture": Object {
+                            "type": "StaticCanvasTexture",
+                          },
+                          "visible": true,
+                          "w": 205,
+                          "x": 92.5,
+                          "y": 139,
+                          "zIndex": 2,
+                        },
+                        "Item": Object {
+                          "active": true,
+                          "alpha": 1,
+                          "attached": true,
+                          "boundsMargin": null,
+                          "children": Object {
+                            "Image": Object {
+                              "active": true,
+                              "alpha": 1,
+                              "attached": true,
+                              "boundsMargin": null,
+                              "clipping": false,
+                              "color": 4294967295,
+                              "enabled": true,
+                              "flex": false,
+                              "flexItem": false,
+                              "h": 278,
+                              "isComponent": undefined,
+                              "mount": 0,
+                              "mountX": 0,
+                              "mountY": 0,
+                              "pivot": 0.5,
+                              "pivotX": 0.5,
+                              "pivotY": 0.5,
+                              "ref": "Image",
+                              "renderOfScreen": undefined,
+                              "renderToTexture": true,
+                              "scale": 1,
+                              "scaleX": 1,
+                              "scaleY": 1,
+                              "state": undefined,
+                              "tag": [Function],
+                              "tags": Array [
+                                "Image",
+                              ],
+                              "texture": Object {
+                                "src": "http://image.tmdb.org/t/p/w185/8QxfBE2tWYuFeGknZxEGhEQXspe.jpg",
+                                "type": "ImageTexture",
+                              },
+                              "visible": true,
+                              "w": 185,
+                              "x": 0,
+                              "y": 0,
+                              "zIndex": 2,
+                            },
+                          },
+                          "clipping": false,
+                          "color": 4294967295,
+                          "enabled": true,
+                          "flex": false,
+                          "flexItem": false,
+                          "h": 0,
+                          "isComponent": undefined,
+                          "mount": 0,
+                          "mountX": 0,
+                          "mountY": 0,
+                          "pivot": 0.5,
+                          "pivotX": 0.5,
+                          "pivotY": 0.5,
+                          "ref": "Item",
+                          "renderOfScreen": undefined,
+                          "renderToTexture": false,
+                          "scale": 1,
+                          "scaleX": 1,
+                          "scaleY": 1,
+                          "state": undefined,
+                          "tag": [Function],
+                          "tags": Array [
+                            "Item",
+                          ],
+                          "visible": true,
+                          "w": 0,
+                          "x": 0,
+                          "y": 0,
+                          "zIndex": 0,
+                        },
+                      },
+                      "clipping": false,
+                      "color": 4294967295,
+                      "enabled": true,
+                      "flex": false,
+                      "flexItem": false,
+                      "h": 278,
+                      "hasFinalFocus": false,
+                      "hasFocus": false,
+                      "isComponent": true,
+                      "mount": 0,
+                      "mountX": 0,
+                      "mountY": 0,
+                      "pivot": 0.5,
+                      "pivotX": 0.5,
+                      "pivotY": 0.5,
+                      "ref": null,
+                      "renderOfScreen": undefined,
+                      "renderToTexture": false,
+                      "scale": 1,
+                      "scaleX": 1,
+                      "scaleY": 1,
+                      "state": "",
+                      "tag": [Function],
+                      "type": "Tile",
+                      "visible": true,
+                      "w": 185,
+                      "x": 651,
+                      "y": 0,
+                      "zIndex": 0,
+                    },
                   },
                   "clipping": false,
                   "color": 4294967295,
@@ -12400,115 +12182,6 @@ Object {
               "attached": true,
               "boundsMargin": null,
               "children": Object {
-                "RightMetadata": Object {
-                  "active": true,
-                  "alpha": 1,
-                  "attached": true,
-                  "boundsMargin": null,
-                  "children": Object {
-                    "LogoContainer": Object {
-                      "active": true,
-                      "alpha": 1,
-                      "attached": true,
-                      "boundsMargin": null,
-                      "children": Object {
-                        "Logo": Object {
-                          "active": true,
-                          "alpha": 1,
-                          "attached": true,
-                          "boundsMargin": null,
-                          "clipping": false,
-                          "color": 4294967295,
-                          "enabled": true,
-                          "flex": false,
-                          "flexItem": true,
-                          "h": 0,
-                          "isComponent": undefined,
-                          "mount": 0,
-                          "mountX": 0,
-                          "mountY": 0,
-                          "pivot": 0.5,
-                          "pivotX": 0.5,
-                          "pivotY": 0.5,
-                          "ref": "Logo",
-                          "renderOfScreen": undefined,
-                          "renderToTexture": false,
-                          "scale": 1,
-                          "scaleX": 1,
-                          "scaleY": 1,
-                          "state": undefined,
-                          "tag": [Function],
-                          "tags": Array [
-                            "Logo",
-                          ],
-                          "visible": true,
-                          "w": 0,
-                          "x": 0,
-                          "y": 0,
-                          "zIndex": 0,
-                        },
-                      },
-                      "clipping": false,
-                      "color": 4294967295,
-                      "enabled": true,
-                      "flex": true,
-                      "flexItem": true,
-                      "h": 88,
-                      "isComponent": undefined,
-                      "mount": 0,
-                      "mountX": 0,
-                      "mountY": 0,
-                      "pivot": 0.5,
-                      "pivotX": 0.5,
-                      "pivotY": 0.5,
-                      "ref": "LogoContainer",
-                      "renderOfScreen": undefined,
-                      "renderToTexture": false,
-                      "scale": 1,
-                      "scaleX": 1,
-                      "scaleY": 1,
-                      "state": undefined,
-                      "tag": [Function],
-                      "tags": Array [
-                        "LogoContainer",
-                      ],
-                      "visible": true,
-                      "w": 99,
-                      "x": 0,
-                      "y": 0,
-                      "zIndex": 0,
-                    },
-                  },
-                  "clipping": false,
-                  "color": 4294967295,
-                  "enabled": true,
-                  "flex": true,
-                  "flexItem": true,
-                  "h": 0,
-                  "isComponent": undefined,
-                  "mount": 0,
-                  "mountX": 0,
-                  "mountY": 0,
-                  "pivot": 0.5,
-                  "pivotX": 0.5,
-                  "pivotY": 0.5,
-                  "ref": "RightMetadata",
-                  "renderOfScreen": undefined,
-                  "renderToTexture": false,
-                  "scale": 1,
-                  "scaleX": 1,
-                  "scaleY": 1,
-                  "state": undefined,
-                  "tag": [Function],
-                  "tags": Array [
-                    "RightMetadata",
-                  ],
-                  "visible": true,
-                  "w": 748,
-                  "x": 1012,
-                  "y": 0,
-                  "zIndex": 0,
-                },
                 "ShortSynopsis": Object {
                   "active": true,
                   "alpha": 1,
@@ -12986,7 +12659,7 @@ Object {
                   "attached": true,
                   "boundsMargin": null,
                   "children": Object {
-                    "Element-39": Object {
+                    "Element-36": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -13137,7 +12810,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-43": Object {
+                    "Element-40": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -13288,7 +12961,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-47": Object {
+                    "Element-44": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -13439,7 +13112,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-51": Object {
+                    "Element-48": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -13590,7 +13263,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-55": Object {
+                    "Element-52": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -13741,7 +13414,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-59": Object {
+                    "Element-56": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -13892,7 +13565,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-63": Object {
+                    "Element-60": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -14043,7 +13716,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-67": Object {
+                    "Element-64": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -14194,7 +13867,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-71": Object {
+                    "Element-68": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,
@@ -14345,7 +14018,7 @@ Object {
                       "y": 0,
                       "zIndex": 0,
                     },
-                    "Element-75": Object {
+                    "Element-72": Object {
                       "active": false,
                       "alpha": 1,
                       "attached": true,

@@ -1,5 +1,6 @@
 // Common Matchers
 // https://jestjs.io/docs/using-matchers
+// https://jestjs.io/docs/expect
 
 test('two plus two is four', () => {
   expect(2 + 2).toBe(4);
@@ -9,6 +10,14 @@ test('object assignment', () => {
   const data = {one: 1};
   data['two'] = 2;
   expect(data).toEqual({one: 1, two: 2});
+});
+
+test('object assignment', () => {
+  const data = {one: 1};
+  data['two'] = 2;
+  expect(data).toEqual(
+    expect.objectContaining({two: 2})
+  );
 });
 
 test('adding positive numbers is not zero', () => {

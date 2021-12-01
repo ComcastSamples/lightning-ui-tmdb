@@ -29,6 +29,7 @@ export default class Page extends lng.Component {
     this._SectionsContainer.selectedIndex = 0;
   }
 
+  /* istanbul ignore next */
   get announceContext() {
     return ['PAUSE-2', String(Locale.tr.ANNOUNCE_PAGE_HINTTEXT)];
   }

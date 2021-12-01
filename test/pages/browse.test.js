@@ -1,8 +1,6 @@
 import TestRenderer from '@lightningjs/ui-components/test/lightning-test-renderer';
 import Browse from 'src/pages/Browse';
-
-const browseRoute = getRoute('browse');
-
+import browseProvider from 'src/api/providers/browse'
 
 describe('Browse Page', () => {
   let BrowsePage;
@@ -16,7 +14,7 @@ describe('Browse Page', () => {
     }
     testRenderer = TestRenderer.create(BrowsePage);
     page = testRenderer.getInstance();
-    return browseRoute.before(page);
+    return browseProvider(page);
   });
 
   it('should render', () => {
