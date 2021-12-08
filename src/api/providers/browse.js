@@ -12,7 +12,8 @@ export default function (page) {
   page.getMoreRows = () => {
     page.apiIndex++;
     return api.get('/trending/all/week?page=' + page.apiIndex).then((trending) => {
-      let tiles = page.leftoverTiles.concat(convertItemsToTiles(trending.results));
+      let results = trending.results.filter((r) => !r.adult);
+      let tiles = page.leftoverTiles.concat(convertItemsToTiles(results));
       let chunks = chunkArray(tiles);
       if (chunks[chunks.length - 1].length < 7) {
         page.leftoverTiles = chunks.pop();

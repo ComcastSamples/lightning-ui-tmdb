@@ -1,4 +1,9 @@
 import browseProvider from 'src/api/providers/browse.js';
+import trending from 'test/mocks/trending.json';
+
+let trendingWithAdult = JSON.parse(JSON.stringify(trending));
+trendingWithAdult.results[3].adult = true;
+trendingWithAdult.results[7].adult = true;
 
 describe('browse provider', () => {
   let pageStub;
@@ -31,5 +36,11 @@ describe('browse provider', () => {
   it('doesnt load things twice', async () => {
     await browseProvider(pageStub);
     expect(pageStub.reset).toHaveBeenCalledTimes(1);
+  });
+
+  it('filters adult content', async () => {
+    fetch.mockResponseOnce(JSON.stringify(trendingWithAdult));
+    await browseProvider(pageStub);
+    expect(pageStub.leftoverTiles.length).toEqual(5);
   });
 });
