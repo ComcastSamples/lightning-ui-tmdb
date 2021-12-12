@@ -28,7 +28,7 @@ export default class ExtendedRow extends Row {
   }
 
   get title() {
-    return this.Title.text;
+    return this.Title.text.text;
   }
 
   get Title() {

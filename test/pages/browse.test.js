@@ -1,5 +1,6 @@
 import TestRenderer from '@lightningjs/ui-components/test/lightning-test-renderer';
 import Browse from 'src/pages/Browse';
+import { Router } from '@lightningjs/sdk';
 import browseProvider from 'src/api/providers/browse'
 
 describe('Browse Page', () => {
@@ -24,9 +25,9 @@ describe('Browse Page', () => {
   });
 
   it('should navigate on tile enter', () => {
-    jest.spyOn(page, 'navigate').mockImplementation(() => {})
+    jest.spyOn(Router, 'navigate').mockImplementation(() => {})
     testRenderer.keyPress('Enter');
-    expect(page.navigate).toHaveBeenCalledWith('movie/438631');
+    expect(Router.navigate).toHaveBeenCalledWith('movie/438631');
   });
 
   it('should load more rows', () => {

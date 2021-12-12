@@ -36,6 +36,10 @@ export default class Browse extends Page {
     };
   }
 
+  announce() {
+    return 'All Trending - Week';
+  }
+
   // Overriden in routes
   getMoreRows() {}
 

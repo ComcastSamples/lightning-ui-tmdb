@@ -160,6 +160,7 @@ export default class Entity extends Page {
   set entityInfo(info) {
     this._entityInfo = info;
     let { title, overview, name } = info;
+    this.announce = (title || name) + ' \n ' + overview;
     this._EntityInfo.title = title || name;
     this._EntityInfo.shortSynopsis = overview;
     this._EntityInfo.buttons = {

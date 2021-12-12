@@ -1,5 +1,5 @@
 import lng from '@lightningjs/core';
-import { Locale, Router } from '@lightningjs/sdk';
+import { Language, Router } from '@lightningjs/sdk';
 
 export default class Page extends lng.Component {
   static _template() {
@@ -31,7 +31,7 @@ export default class Page extends lng.Component {
 
   /* istanbul ignore next */
   get announceContext() {
-    return ['PAUSE-2', String(Locale.tr.ANNOUNCE_PAGE_HINTTEXT)];
+    return ['PAUSE-2', Language.translate('ANNOUNCE_PAGE_HINTTEXT')];
   }
 
   get _SectionsContainer() {
