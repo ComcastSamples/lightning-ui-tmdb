@@ -89,7 +89,7 @@ describe('Entity Page', () => {
     });
 
     it('should have recommendations row', () => {
-      expect(page._SectionsContainer.tag('Recommendations').title.text).toBe('Recommendations');
+      expect(page._SectionsContainer.tag('Recommendations').title).toBe('Recommendations');
     });
 
     it('should load recommendations with actions', () => {
