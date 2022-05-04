@@ -14,6 +14,7 @@
     ]
   },
   "scripts": {
+    "cypress": "cypress open",
     "lint": "npx prettier --check './src/**/*.js'",
     "lint:fix": "npx prettier --write './src/**/*.js'",
     "start": "cross-env LNG_LIVE_RELOAD=true LNG_LIVE_RELOAD_PORT=8991 lng dev",
@@ -40,6 +41,7 @@
     "babel-loader": "^8.1.0",
     "chalk": "^4.1.0",
     "cross-env": "^7.0.3",
+    "cypress": "^9.6.0",
     "eslint": "^7.7.0",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-jest": "^24.1.3",
