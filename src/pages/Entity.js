@@ -188,4 +188,8 @@ export default class Entity extends Page {
   set castAndCrew(items) {
     this._SectionsContainer.tag('Items.CastAndCrew').items = items;
   }
+
+  get id() {
+    return 'EntityPage';
+  }
 }
