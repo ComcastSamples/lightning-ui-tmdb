@@ -1,19 +1,39 @@
 describe('Lightning TMDB app', () => {
-  beforeEach(() => {
-    cy.visit('http://localhost:8080/')
+  describe('Browse', () => {
+    beforeEach(() => {
+      cy.visit('http://localhost:8080/')
+      cy.get('#BrowsePage [type="Row"]').should('have.length', 5)
+    })
+
+    it('displays a page with rows', () => {
+      cy.get('#BrowsePage [type="Row"]').first().find('[type="Tile"]').should('have.length', 7)
+    })
+
+    it('loads additional rows', () => {
+      cy.get('body').type('{downArrow}');
+      cy.get('#BrowsePage [type="Row"]').should('have.length', 8)
+    })
+
+    it('navigates to an entity page', () => {
+      cy.get('body').type('{enter}');
+      cy.get('#EntityPage').should('be.visible')
+    })
   })
 
-  it('displays a browse page with rows', () => {
-    // We use the `cy.get()` command to get all elements that match the selector.
-    // Then, we use `should` to assert that there are two matched items,
-    // which are the two default items.
-    cy.get('.todo-list li').should('have.length', 2)
+  describe('Movie EntityPage', () => {
+    beforeEach(() => {
+      cy.visit('http://localhost:8080/#movie/414906')
+      cy.get('#EntityPage').find('[texture-text="The Batman"]')
+    })
 
-    // We can go even further and check that the default todos each contain
-    // the correct text. We use the `first` and `last` functions
-    // to get just the first and last matched elements individually,
-    // and then perform an assertion with `should`.
-    cy.get('.todo-list li').first().should('have.text', 'Pay electric bill')
-    cy.get('.todo-list li').last().should('have.text', 'Walk the dog')
+    it('displays The Batman', () => {
+      cy.get('#EntityPage').find('[texture-text="The Batman"]')
+    })
+
+    it('displays cast and crew', () => {
+      cy.get('body').type('{downArrow}');
+      cy.get('#EntityPage').find('[ref="CastAndCrew"]').should('be.visible')
+      cy.get('#EntityPage').find('[ref="CastAndCrew"]').find('[type="Tile"]').should('have.length', 10)
+    })
   })
 })

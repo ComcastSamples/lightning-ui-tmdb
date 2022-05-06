@@ -36,6 +36,10 @@ export default class Browse extends Page {
     };
   }
 
+  get id() {
+    return 'BrowsePage';
+  }
+
   announce() {
     return 'All Trending - Week';
   }
