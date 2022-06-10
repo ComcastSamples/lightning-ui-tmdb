@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="referrer" content="no-referrer"/>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+
+  <script>
+    window.APP_VERSION = '<%= htmlWebpackPlugin.options.version %>';
+  </script>
+</head>
+
+<body>
+  <% if (htmlWebpackPlugin.options.useInspector) { %>
+    ./node_modules/@lightningjs/core/devtools/lightning-inspect.js
+    <script type="text/javascript" src="<%= htmlWebpackPlugin.options.ASSET_PATH %>/cypress/lightning-inspect.js"></script>
+  <% } %>
+</body>
+</html>
