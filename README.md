@@ -5,7 +5,7 @@ Sample Lightning app using TMDB for backend
 ### Quickstart
 
 Get an api key from [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
-and put the key in `src/api/index.js`
+and put the key in `src/api/key.js` with `export default 'KEY_VALUE'`
 
 ```
 git clone git@github.com:ComcastSamples/lightning-ui-tmdb.git
