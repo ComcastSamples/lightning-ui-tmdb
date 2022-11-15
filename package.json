@@ -29,8 +29,8 @@
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-optional-chaining": "^7.12.7",
-    "@lightningjs/core": "^2.5.0",
-    "@lightningjs/sdk": "^4.6.0",
+    "@lightningjs/core": "^2.8.0",
+    "@lightningjs/sdk": "^5.0.1",
     "@lightningjs/ui-components": "^1.2.1"
   },
   "devDependencies": {

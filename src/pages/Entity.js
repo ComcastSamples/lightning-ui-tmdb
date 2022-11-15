@@ -84,6 +84,7 @@ export default class Entity extends Page {
       ...super._template(),
       Backdrop: {
         w: SCREEN.w,
+        h: SCREEN.h,
       },
       Bubble: {
         shader: { type: lng.shaders.RoundedRectangle, radius: CORNER_RADIUS.large },
