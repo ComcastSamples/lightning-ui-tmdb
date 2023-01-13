@@ -7,7 +7,6 @@ const basePosterSize = 'w185';
 const defaultFetchParams = {
   headers: {
     'Content-Type': 'application/json',
-    Authorization: 'Bearer ' + API_KEY_V4,
   },
 };
 
@@ -16,7 +15,8 @@ export function getImageUrl(path, posterSize = basePosterSize) {
 }
 
 function get(path, params = {}) {
-  return fetch(API_BASE + path, {
+  path += path.indexOf('?') == -1 ? '?' : '&';
+  return fetch(API_BASE + path + 'api_key=' + API_KEY_V4, {
     ...defaultFetchParams,
     ...params,
   }).then((r) => r.json());
