@@ -5,3 +5,4 @@ releases
 .tmp
 build
 src/api/key.js
+static/images/

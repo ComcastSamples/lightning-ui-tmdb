@@ -1,5 +1,7 @@
 import fetchMock from 'jest-fetch-mock';
 // https://github.com/jefflau/jest-fetch-mock
+// Switch to https://github.com/philschatz/fetch-vcr
+
 import api from 'src/api';
 import configuration from 'test/mocks/configuration.json';
 import trending from 'test/mocks/trending.json';
