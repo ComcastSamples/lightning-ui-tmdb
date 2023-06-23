@@ -2589,7 +2589,7 @@ Object {
                   "visible": true,
                   "w": 2138,
                   "x": 0,
-                  "y": 70,
+                  "y": 0,
                   "zIndex": 0,
                 },
                 "Title": Object {
@@ -4686,7 +4686,7 @@ Object {
                   "visible": true,
                   "w": 2138,
                   "x": 0,
-                  "y": 70,
+                  "y": 0,
                   "zIndex": 0,
                 },
                 "Title": Object {
@@ -7420,7 +7420,7 @@ Object {
                   "visible": true,
                   "w": 2138,
                   "x": 0,
-                  "y": 70,
+                  "y": 0,
                   "zIndex": 0,
                 },
                 "Title": Object {
@@ -9517,7 +9517,7 @@ Object {
                   "visible": true,
                   "w": 2138,
                   "x": 0,
-                  "y": 70,
+                  "y": 0,
                   "zIndex": 0,
                 },
                 "Title": Object {
@@ -12100,7 +12100,7 @@ Object {
                   "visible": true,
                   "w": 1921,
                   "x": 0,
-                  "y": 70,
+                  "y": 0,
                   "zIndex": 0,
                 },
                 "Title": Object {
@@ -14197,7 +14197,7 @@ Object {
                   "visible": true,
                   "w": 2138,
                   "x": 0,
-                  "y": 70,
+                  "y": 0,
                   "zIndex": 0,
                 },
                 "Title": Object {
